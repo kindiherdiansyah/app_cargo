@@ -53,3 +53,14 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+APPLICATION KDR TRACK, TARIFF, AND OFFICE
+
+![home](https://user-images.githubusercontent.com/26849052/84474240-b80a6080-acb4-11ea-9e78-c35d6e916b90.JPG)
+![f-track](https://user-images.githubusercontent.com/26849052/84474238-b771ca00-acb4-11ea-9cf4-ab1487105769.JPG)
+![book](https://user-images.githubusercontent.com/26849052/84474229-b476d980-acb4-11ea-97ea-9219469b8456.JPG)
+![f-tarif](https://user-images.githubusercontent.com/26849052/84474236-b6409d00-acb4-11ea-9350-a1ca42992e55.JPG)
+![f-loca](https://user-images.githubusercontent.com/26849052/84474232-b50f7000-acb4-11ea-84b4-d1b90df3344f.JPG)
+![admin](https://user-images.githubusercontent.com/26849052/84474225-b2147f80-acb4-11ea-9a8a-b5d3d4cfa243.JPG)
+![kantor](https://user-images.githubusercontent.com/26849052/84474242-b8a2f700-acb4-11ea-9c2c-c6ceaa4d52b8.JPG)
+![tarif](https://user-images.githubusercontent.com/26849052/84474244-bb055100-acb4-11ea-9dbd-6b01928689b1.JPG)
+

@@ -36,7 +36,7 @@ $this->params['breadcrumbs'][] = $this->title;
 
 
     <!-- akhir dari Bagian js -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBlwjQP0Vx7wFGpT4rHsGy0bT9fVENNAI&callback=initMap" type="text/javascript"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=API&callback=initMap" type="text/javascript"></script>
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
     </script>
     <script>
